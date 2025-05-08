@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- İlk kişi -->
+    <circle cx="180" cy="160" r="60" fill="#667eea"/>
+    <path d="M180 240c-60 0-120 30-120 90v42h240v-42c0-60-60-90-120-90z" fill="#667eea"/>
+    
+    <!-- İkinci kişi -->
+    <circle cx="332" cy="160" r="60" fill="#764ba2"/>
+    <path d="M332 240c-60 0-120 30-120 90v42h240v-42c0-60-60-90-120-90z" fill="#764ba2"/>
+    
+    <!-- Kalp sembolü -->
+    <path d="M256 360c0 0-32-24-48-36-30-24-42-48-42-66 0-30 24-54 54-54 20 0 36 12 42 30 6-18 22-30 42-30 30 0 54 24 54 54 0 18-12 42-42 66-16 12-48 36-48 36z" fill="#ff6b6b"/>
+</svg> 

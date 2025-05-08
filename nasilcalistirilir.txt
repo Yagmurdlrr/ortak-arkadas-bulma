@@ -1,0 +1,41 @@
+ORTAK ARKADAŞ BULUCU - KURULUM KILAVUZU
+=====================================
+
+Bu uygulama, kullanıcılar arasındaki ortak arkadaşları bulmaya yarayan bir web uygulamasıdır.
+Aşağıdaki adımları takip ederek uygulamayı çalıştırabilirsiniz.
+
+1. GEREKSİNİMLER
+----------------
+- Python 3.6 veya daha yüksek bir sürüm
+- pip (Python paket yöneticisi)
+
+2. KURULUM ADIMLARI
+------------------
+1. Komut satırını (terminal/command prompt) açın
+2. Proje klasörüne gidin:
+   cd proje_klasörü_yolu
+
+3. Gerekli Python paketlerini yükleyin:
+   pip install -r requirements.txt
+
+3. UYGULAMAYI ÇALIŞTIRMA
+-----------------------
+1. Proje klasöründeyken şu komutu çalıştırın:
+   python app.py
+
+2. Tarayıcınızda şu adresi açın:
+   http://localhost:8080
+
+4. UYGULAMA KULLANIMI
+-------------------
+1. "Yeni Kullanıcı Ekle" bölümünden kullanıcıları ekleyin
+2. "Arkadaşlık Ekle" bölümünden kullanıcılar arasında arkadaşlık ilişkisi kurun
+3. "Ortak Arkadaş Bulucu" bölümünden iki kullanıcı seçerek ortak arkadaşlarını görüntüleyin
+
+5. DOSYA YAPISI
+-------------
+- app.py: Ana uygulama dosyası
+- ortakarkadasbulma.py: Hashtable ve arkadaş bulma fonksiyonlarını içeren dosya
+- requirements.txt: Gerekli Python paketlerinin listesi
+- templates/: HTML şablonlarını içeren klasör
+- static/: CSS, JavaScript ve görselleri içeren klasör
